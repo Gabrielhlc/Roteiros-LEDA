@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-08-05T15:33:08.935-0300</date>
+  <logger>GABRIEL HENRIQUE LOPES CARVALHO</logger>
+  <level>FINE</level>
+  <message>File 120110375-GABRIEL HENRIQUE LOPES CARVALHO.zip was received. It was sent by GABRIEL HENRIQUE LOPES CARVALHO from IP 192.168.0.124 at 05-08-2021 15*33*08</message>
+</record>
